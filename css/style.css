@@ -482,7 +482,7 @@ color: #fff;
   .top__title{
     flex-wrap: wrap;
     word-wrap: break-word;
-    font-size: 45px;
+    font-size: 44px;
     text-align: center;
     align-items: center;
     margin-left: 130px;
@@ -544,8 +544,8 @@ align-items: center;
 
 .mailing-list__inner{
   display: flex;
-  gap: 50px;
-  padding: 5px 120px 30px 3px; 
+  gap: 10px;
+  padding: 5px 120px 30px 3px;  
 } 
 .mailing-list__form{
   justify-content: flex-end;
@@ -595,10 +595,10 @@ align-items: center;
   .top__title{
     flex-wrap: wrap;
     word-wrap: break-word;
-    font-size: 30px;
+    font-size: 28px;
     text-align: center;
     align-items: center;
-    margin-left: 130px;
+    margin-left: 160px;
   }
 
 .menu__list{
@@ -622,6 +622,10 @@ gap: 5px;
     max-width: 100%;
   }
   .capabi{ 
+    margin-left: 65px;
+    justify-content: center;
+  }
+  .capabili{
     justify-content: center;
   }
 }
